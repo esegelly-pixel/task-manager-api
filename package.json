@@ -1,0 +1,13 @@
+{
+  "name": "task-manager-api",
+  "version": "1.0.0",
+  "description": "Simple Express.js Task Manager API using in-memory storage",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
